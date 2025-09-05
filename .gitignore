@@ -1,6 +1,6 @@
 .venv312/
 .venv*/
-.notes.txt/
+/notes.txt
 venv/
 __pycache__/
 *.pyc
