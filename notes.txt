@@ -1,3 +1,0 @@
-Deep Learning
-
-- GPU faster thtan CPU
