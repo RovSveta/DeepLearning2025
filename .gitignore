@@ -1,1 +1,7 @@
-".venv312/" 
+.venv312/
+.venv*/
+.notes.txt/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
