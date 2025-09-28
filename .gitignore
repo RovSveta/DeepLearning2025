@@ -3,7 +3,5 @@
 /notes.txt
 venv/
 __pycache__/
-*.pyc
-.ipynb_checkpoints/
 *.csv
 Course_material_notes_test_code/
